@@ -19,7 +19,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/c4nng/Passwd-G.git
+   git clone https://github.com/Bereo22
    cd Passwd-G
 
 ## Screenshots

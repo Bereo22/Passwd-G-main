@@ -9,7 +9,7 @@ from colorama import Fore, Style, init
 """
 PasswdG - Password Generator and Analyzer
 
-Copyright (c) 2024 [Enes Can Adil]
+Copyright (c) 2024 [Berkant Efe Oğulpaşa]
 
 This project is licensed under the MIT License.
 See the LICENSE file in the project root for more information.
